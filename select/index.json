@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DADARUMA",
+  "base_artist": "ろくろ",
+  "createdAt": "2026-01-03T14:26:43.364378Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DADARUMA",
+      "artist": "ろくろ Feat. flower",
+      "has_synced": false,
+      "path": "select/pl_01_DADARUMA_ろくろ_Feat._flower.txt"
+    }
+  ]
+}
